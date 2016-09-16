@@ -1,0 +1,6 @@
+{
+  "name": "Docker-symfonynginx",
+  "tagline": "",
+  "body": "[![](https://img.shields.io/badge/nginx-1.11-brightgreen.svg)](https://hub.docker.com/_/nginx/ 'Nginx DockerHub') [![](https://img.shields.io/badge/license-AGPL%20v3-blue.svg)](https://github.com/Maaiins/Docker-SymfonyNginx/blob/master/LICENSE 'Project Licence') [![](https://img.shields.io/docker/stars/maaiins/symfony-nginx.svg)](https://hub.docker.com/r/maaiins/symfony-nginx 'Project DockerHub') [![](https://img.shields.io/docker/pulls/maaiins/symfony-nginx.svg)](https://hub.docker.com/r/maaiins/symfony-nginx 'Project DockerHub')\r\n\r\n# Docker-SymfonyNginx\r\n\r\n### Usage\r\n\r\nTo run it:\r\n\r\n    $ docker run -d maaiins/symfony-nginx",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
